@@ -2,7 +2,7 @@
 🚀Retail Dashboard- Highlighting Sales and Revenue worldwide With proper insights.
 A Dynamic Dashboard created with visual tool like power bi which showcases revenue worldwide, regional comparisons and,
 Highest demanding countries.
-
+___________________________________________________________________________________________________________________________________________________
 📖About
 -
 The Retail sales dashboard is created in power bi for CEO/CMO to explore:
@@ -20,17 +20,18 @@ The CMO wants to visual on the higher revenue generating customers.
 4.To gain insights on the demand for their products including all countries and see which regions have the greatest demand for their products,
 visualize the entire data on a single view without the need to scroll or hover over the data,
 United kingdom is highlighted here as Ceo needs other countries for expansion strategy.
-
+______________________________________________________________________________________________________________________________________________________
 🛠️Technology/Tools Used
 -
 1.📊 Excel - To clean data first and remove duplicates.
 
 2.📶Power Bi Desktop - Main tool used for creating Visualisations and insights.
-
+______________________________________________________________________________________________________________________________________________________
 📗Data Source
 - 
 Forage.com
-Data of a retail store with information including global revenue and customers.
+,Data of a retail store with information including global revenue and customers.
+______________________________________________________________________________________________________________________________________________________
 
 ➤Features
 -
@@ -52,7 +53,7 @@ He wants to look at all countries and see which regions have the greatest demand
 Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions.
 He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. 
 There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
-
+______________________________________________________________________________________________________________________________________________________
 📸Snapshot of dashboard
 -
 ![Dashboard Screenshot](https://github.com/Pranav0074/Retail-Dashboard/blob/main/Snapshot%20of%20datavisual.png)
