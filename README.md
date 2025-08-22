@@ -55,5 +55,5 @@ There is no need to show data for the United Kingdom as the CEO is more interest
 
 📸Snapshot of dashboard
 -
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Pranav0074/Retail-Dashboard/blob/main/Snapshot%20of%20datavisual.png)
 
